@@ -45,6 +45,10 @@
   <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf"><b>Paper Link</b>👁️</a>
 </p>
 
+<p align="center">
+  <a href="https://www.deepseekr1.org"><b>Try Chat Free</b>👁️</a>
+</p>
+
 
 ## 1. Introduction
 
